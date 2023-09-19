@@ -1,0 +1,41 @@
+body{
+    margin-left: 20px;
+
+}
+
+.window{
+    display: flex;
+}
+.newbtn{
+    background-color: azure;
+    border-radius: 10px;
+    border: 0.4px solid black;
+}
+
+.chat{
+    width: 300px;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 16px;
+}
+
+.msg{
+    background-color: dodgerblue;
+    color: white;
+    padding: 0.1px 12px;
+    border-radius: 16px;
+}
+
+.buttons button{
+    border-radius: 10px;
+    margin-left: 4px;
+    margin-right: 4px;
+    border: 0.1px solid black;
+    background-color: azure;
+}
+
+.buttons{
+    display: flex;
+    margin-bottom: 6px;
+    margin-right: 4px;
+}
